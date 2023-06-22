@@ -1,0 +1,16 @@
+{
+  "name": "reference",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "circomlibjs": "^0.1.7",
+    "ethers": "^5.7.0",
+    "ts-node": "^10.9.1"
+  }
+}
