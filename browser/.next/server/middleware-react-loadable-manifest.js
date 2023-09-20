@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST="{\"../utils/noir.ts -> @aztec/bb.js\":{\"id\":\"../utils/noir.ts -> @aztec/bb.js\",\"files\":[\"static/chunks/node_modules_aztec_bb_js_dest_browser_index_js.js\"]},\"../utils/noir.ts -> @noir-lang/acvm_js\":{\"id\":\"../utils/noir.ts -> @noir-lang/acvm_js\",\"files\":[]}}"
