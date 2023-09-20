@@ -8,6 +8,12 @@
 [Foundry](https://book.getfoundry.sh/getting-started/installation#using-foundryup)
 `curl -L https://foundry.paradigm.xyz | bash`
 
+## Other cool stuff
+
+[Proving on the browser](https://github.com/noir-lang/noir-starter/tree/main/next-hardhat)
+
+[Recursive proofs... On the browser](https://github.com/noir-lang/noir-examples/tree/master/recursion)
+
 ## I trust you bro
 
 Unless you want to, you don't need to run the tools inside "utils". Here are the hashes we're gonna need, for your copy-pasting pleasures:
