@@ -3,11 +3,12 @@ import { useState, useEffect } from 'react';
 import { toast } from 'react-toastify';
 import React from 'react';
 import { Noir } from '../utils/noir';
+import circuit from "../circuits/target/noirstarter.json"
 
 function Component() {
   const [input, setInput] = useState({ x: 0, y: 0 });
   const [proof, setProof] = useState(Uint8Array.from([]));
-  const [noir, setNoir] = useState(new Noir());
+  const [noir, setNoir] = useState(new Noir(circuit));
 
   // Handles input state
   const handleChange = e => {
