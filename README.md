@@ -2,15 +2,15 @@
 
 ## Useful install links
 
-[Noirup](https://noir-lang.org/getting_started/nargo_installation#option-1-noirup)
-`curl -L https://raw.githubusercontent.com/noir-lang/noirup/main/install | bash`
+[Noirup](https://noir-lang.org/docs/getting_started/quick_start)
+`curl -L noirup.dev | bash`
 
 [Foundry](https://book.getfoundry.sh/getting-started/installation#using-foundryup)
 `curl -L https://foundry.paradigm.xyz | bash`
 
 ## Other cool stuff
 
-[Proving on the browser](https://github.com/noir-lang/noir-starter/tree/main/next-hardhat)
+[Proving on the browser](https://github.com/AztecProtocol/noir-starter/tree/main/vite-hardhat)
 
 [Recursive proofs... On the browser](https://github.com/noir-lang/noir-examples/tree/master/recursion)
 
@@ -41,7 +41,7 @@ Same for my favourite lib:
 
 ```toml
 [dependencies]
-ecrecover = {tag = "v0.10.0", git = "https://github.com/colinnielsen/ecrecover-noir.git"}
+ecrecover = {tag = "v0.30.0", git = "https://github.com/colinnielsen/ecrecover-noir.git"}
 ```
 
 [^fn]: nope
